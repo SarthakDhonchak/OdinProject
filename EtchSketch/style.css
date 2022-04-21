@@ -1,0 +1,32 @@
+/* * {
+    border: 1px solid black;
+} */
+
+
+#container {
+
+    height: 960px;
+    width: 960px;
+}
+
+.gridRow {
+    display: flex;
+}
+
+.gridElement {
+
+    background-color: orange;
+
+}
+
+.gridElement:hover {
+    background-color: red;
+}
+
+.row {
+    display: flex;
+}
+
+.black {
+    background-color: black;
+}
